@@ -6,12 +6,18 @@ I would like to build a site that brings together video tutorials along with blo
 
 ## The 5 W's
 
-Who: This site will be for aspiring, novice recordists on up to advanced engineers.
+This site will be for aspiring, novice recordists and advanced engineers. It will contain a mixture of tutorial videos, articles, charts, gear reviews, etc. I have been through the incredibly lengthy and confusing process of learning how to record, mix and master, and it is quite daunting. I'd like to help speed up the process for others by sharing my experiences, trials and tribulations.
 
-What: Mixture of tutorial videos, articles, charts, etc.
+## SITE MAP
 
-Where: On your desktop, laptop or mobile device.
+1. HOME PAGE   
+1. TUTORIALS  
+1. ARTICLES  
+1. GEAR
 
-When: All the time, or as needed.
+## LIBRARIES/SPECIAL FEATURES
 
-Why: I have been through the incredibly lengthy and confusing process of learning how to record, mix and master and it is quite daunting. I'd like to help speed up the process for others by sharing my experiences, trials and tribulations.
+* Google Fonts/Type Kit
+* Bootstrap or Bourbon and Neat
+* Font Awesome or Material Design
+* jQuery or CSS Animation
