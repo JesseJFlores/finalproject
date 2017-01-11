@@ -32,4 +32,10 @@ This site will be for aspiring, novice recordists as well as advanced engineers.
 
 ## MVP
 
-At the very least I will need branding for the site that includes a logo (icon and typographical), a color scheme and a body font plus header font. There will need to be a HOME page, a VIDEOS page, a PLUG-IN page and a RESOURCES page. The home page will feature one of the latest additions to each category- this way the user can immediately engage with the content upon initially viewing the site. The user can then select a link from the navigation links to further view more specific content- i.e., tutorials, featured plug-ins, and other resources for learning (links to external sites or articles). The site will need to be responsive so it can properly be viewed from any device.     
+At the very least I will need branding that includes a logo (icon and typographical), a color scheme and a body font plus header font. There will need to be a HOME page, a VIDEOS page, a PLUG-IN page and a RESOURCES page. The home page will feature one of the latest additions to each category- a video, one plug-in review, and a side bar containing links/pics to external resources- this way the user can immediately engage with the content upon initially viewing the site. The user can then select a link from the navigation to further view more specific content- i.e., tutorials, featured plug-ins, and a list of all resources for learning (links to external sites or articles). The site will need to be responsive so it can properly be viewed from any device.
+
+## USER STORIES
+
+1. Wants to watch a video to learn about mixing techniques using the latest version of Pro Tools.  
+1. Visits site and would like to read a review about a new Plug-In to find out if it is worth buying/renting.
+1. Just browsing the site and happens to click on one of the "resources" links in the side bar to an external site.    
