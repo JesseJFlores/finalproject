@@ -11,10 +11,8 @@ This site will be for aspiring, novice recordists as well as advanced engineers.
 ## BASIC FEATURES/CONTENT
 
 * video tutorials  
-* reference articles  
-* blog (my own two cents)
-* gear reviews
-* info graphics/charts
+* resources  
+* plug-in reviews
 
 ## SITE MAP
 
