@@ -1,0 +1,5 @@
+USER STORIES
+
+1. Wants to watch a video to learn about mixing techniques using the latest version of Pro Tools.  
+2. Visits site and would like to read a review about a new Plug-In to find out if it is worth buying/renting.
+3. Just browsing the site and happens to click on one of the "resources" links in the side bar to an external site. 
